@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #22333b;
+	background-image: url(../src/images/tatetiBg.jpg);
+}
+
+p {
+	font-size: 2em;
+	font-weight: bold;
+	color: antiquewhite;
+}
